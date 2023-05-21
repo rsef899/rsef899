@@ -21,4 +21,5 @@ Third year Computer Systems Engineering student at the University of Auckland, I
 ###### Tools
 ![Git](https://img.shields.io/badge/Git-de68a1?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Nginx](https://img.shields.io/badge/GitHub-41a81b?style=for-the-badge&logo=nginx&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-41a81b?style=for-the-badge&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-1cbd92?style=for-the-badge&logo=gunicorn&logoColor=white)
