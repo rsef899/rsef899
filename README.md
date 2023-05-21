@@ -16,4 +16,9 @@ Third year Computer Systems Engineering student at the University of Auckland, I
 
 ###### Frameworks I have used
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-e3e1dc.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-e3e1dc?style=for-the-badge&logo=flask&logoColor=white)
+
+###### Tools
+![Git](https://img.shields.io/badge/Git-de68a1?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Nginx](https://img.shields.io/badge/GitHub-41a81b?style=for-the-badge&logo=nginx&logoColor=white)
