@@ -23,3 +23,9 @@ Third year Computer Systems Engineering student at the University of Auckland, I
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-41a81b?style=for-the-badge&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-1cbd92?style=for-the-badge&logo=gunicorn&logoColor=white)
+
+### Projects
+![Python]
+![React]
+![Flask]
+![Nginx]
