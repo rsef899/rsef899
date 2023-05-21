@@ -34,12 +34,16 @@ Third year Computer Systems Engineering student at the University of Auckland, I
 
 A Web application that performs simple budgeting, uses it's own backend api made in python and a react front end both served using nginx on a cloud server.
 
-##### American sign language alphabet detection
+#### American sign language alphabet detection
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-306998?style=for-the-badge&logo=pytorch&logoColor=white)
 
-A application that trains a model to detect american sign language alphabet characters and also detects the letters, 
+A application that trains a model to detect American sign language alphabet characters and also detects the letters, 
 built using PyTOrch and PyQt.
 
+### Currently working on
+#### Flappy Bird style game 
+![VHDL](https://img.shields.io/badge/VHDL-306998?style=for-the-badge)
 
+Using Vhdl to program and VHDL to play a Flappy bird style game, displaying the game using VGA
 
