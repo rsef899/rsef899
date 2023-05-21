@@ -26,11 +26,16 @@ Third year Computer Systems Engineering student at the University of Auckland, I
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-1cbd92?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 ### Projects
+# Budget-er
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-e3e1dc?style=for-the-badge&logo=flask&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-41a81b?style=for-the-badge&logo=nginx&logoColor=white)
+A Web application that performs simple budgeting, uses it's own backend api made in python and a react front end both served using nginx on a cloud server.
 
+# American Sign Language Alphabet detection
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-306998?style=for-the-badge&logo=pytorch&logoColor=white)
 A Web application that performs simple budgeting, uses it's own backend api made in python and a react front end both served using nginx on a cloud server.
 
 
