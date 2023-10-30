@@ -39,10 +39,3 @@ A Web application that performs simple budgeting, uses it's own backend api made
 
 A application that trains a model to detect American sign language alphabet characters and also detects the letters, 
 built using PyTOrch and PyQt.
-
-### Currently working on
-#### Flappy Bird style game 
-![VHDL](https://img.shields.io/badge/VHDL-306998?style=for-the-badge)
-
-Using Vhdl to program and VHDL to play a Flappy bird style game, displaying the game using VGA
-
